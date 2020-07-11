@@ -1,269 +1,1571 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HistoryChannel.gr" tvg-name="VIP|GR|: History Channel" tvg-logo="https://www.history.com/assets/images/history/generic-thumb.jpg" group-title="|EU| GREECE",VIP|GR|: History Channel
-http://magco.rip:8000/41768156306870/41660681797044/86700
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Epic Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaKCzDsZxdAziQQ_3iiHr2IwrXm1LWMeQ4C0lGkkQC3yHyYJU&s" group-title="|EU| GREECE",VIP|GR|: Epic Drama
-http://magco.rip:8000/41768156306870/41660681797044/86701
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Discovery Turbo Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Discovery_Turbo_Xtra.png" group-title="|EU| GREECE",VIP|GR|: Discovery Turbo Xtra
-http://magco.rip:8000/41768156306870/41660681797044/86702
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: EPT Play 2 HD" tvg-logo="https://ioannis72.webnode.gr/_files/200000481-505915150e/ertplay2.jpg" group-title="|EU| GREECE",VIP|GR|: EPT Play 2 HD
-http://magco.rip:8000/41768156306870/41660681797044/86703
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: EPT Play 3 HD" tvg-logo="https://www.ert.gr/wp-content/uploads/2017/04/%CE%95%CE%A1Tlplay.jpg" group-title="|EU| GREECE",VIP|GR|: EPT Play 3 HD
-http://magco.rip:8000/41768156306870/41660681797044/86704
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: EPT Play 4 HD" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2014/05/youtube_ertplay4-live_cover_new.jpg" group-title="|EU| GREECE",VIP|GR|: EPT Play 4 HD
-http://magco.rip:8000/41768156306870/41660681797044/86705
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Village Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6VrECLdL4MxopEFWyVNrpJXNv2D14xbI3ewu69adxfsCDMEH&s" group-title="|EU| GREECE",VIP|GR|: Village Cinema
-http://magco.rip:8000/41768156306870/41660681797044/86706
-#EXTINF:-1 tvg-id="ViasatNature.gr" tvg-name="VIP|GR|: Viasat Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaA_6JK9mbVV77DeqEZ5j8eUGKgfXt6gPIwRKeaVBvIf8v9km&s" group-title="|EU| GREECE",VIP|GR|: Viasat Nature
-http://magco.rip:8000/41768156306870/41660681797044/86707
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Viasat History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUvg3LYKpQxtPsF7BAl42pMOwXFeDRTTnRYyVzvStxgILoLJK&s" group-title="|EU| GREECE",VIP|GR|: Viasat History
-http://magco.rip:8000/41768156306870/41660681797044/86708
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Viasat Explore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCf-VTHcXCl-H1kX3FpCfQXUSFu7A5pZd82cYuh2z5SiJdN0d-&s" group-title="|EU| GREECE",VIP|GR|: Viasat Explore
-http://magco.rip:8000/41768156306870/41660681797044/86709
-#EXTINF:-1 tvg-id="TV100.gr" tvg-name="VIP|GR|: TV 100" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgId5w8mIKu7wzmVhTD4Dt3BCBIFQ1eguGK-FFaO-ZnhK6xtrd&s" group-title="|EU| GREECE",VIP|GR|: TV 100
-http://magco.rip:8000/41768156306870/41660681797044/86710
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Travel_Channel_logo-aqua.png" group-title="|EU| GREECE",VIP|GR|: Travel Channel
-http://magco.rip:8000/41768156306870/41660681797044/86711
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="|EU| GREECE",VIP|GR|: TLC
-http://magco.rip:8000/41768156306870/41660681797044/86712
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: TCM HD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="|EU| GREECE",VIP|GR|: TCM HD
-http://magco.rip:8000/41768156306870/41660681797044/86713
-#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="VIP|GR|: Nova Sports Euroleague Highlights HS" tvg-logo="https://cdn.worldvectorlogo.com/logos/nova-sport.svg" group-title="|EU| GREECE",VIP|GR|: Nova Sports Euroleague Highlights HS
-http://magco.rip:8000/41768156306870/41660681797044/86714
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="VIP|GR|: Start" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/STart_Logo.svg/333px-STart_Logo.svg.png" group-title="|EU| GREECE",VIP|GR|: Start
-http://magco.rip:8000/41768156306870/41660681797044/86715
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="VIP|GR|: STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/STart_Logo.svg/333px-STart_Logo.svg.png" group-title="|EU| GREECE",VIP|GR|: STAR
-http://magco.rip:8000/41768156306870/41660681797044/86716
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Smile" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" group-title="|EU| GREECE",VIP|GR|: Smile
-http://magco.rip:8000/41768156306870/41660681797044/86717
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: SKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Skai-logo.svg/566px-Skai-logo.svg.png" group-title="|EU| GREECE",VIP|GR|: SKAI
-http://magco.rip:8000/41768156306870/41660681797044/86718
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Sigma" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sigma-logo-png-transparent.png" group-title="|EU| GREECE",VIP|GR|: Sigma
-http://magco.rip:8000/41768156306870/41660681797044/86719
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="VIP|GR|: Rik 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6f/Logo_RIK1.png" group-title="|EU| GREECE",VIP|GR|: Rik 1
-http://magco.rip:8000/41768156306870/41660681797044/86720
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Rik 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_RIK2.png" group-title="|EU| GREECE",VIP|GR|: Rik 2
-http://magco.rip:8000/41768156306870/41660681797044/86721
-#EXTINF:-1 tvg-id="OutdoorChannel.gr" tvg-name="VIP|GR|: Outdoor Channel" tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="|EU| GREECE",VIP|GR|: Outdoor Channel
-http://magco.rip:8000/41768156306870/41660681797044/86722
-#EXTINF:-1 tvg-id="OpenTV.gr" tvg-name="VIP|GR|: Open Beyond" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Open_Beyond_TV_Transparent.png/revision/latest?cb=20181204104222" group-title="|EU| GREECE",VIP|GR|: Open Beyond
-http://magco.rip:8000/41768156306870/41660681797044/86723
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: ONE Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="|EU| GREECE",VIP|GR|: ONE Channel
-http://magco.rip:8000/41768156306870/41660681797044/86724
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: NRG 91" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG.png" group-title="|EU| GREECE",VIP|GR|: NRG 91
-http://magco.rip:8000/41768156306870/41660681797044/86725
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Nova Sports SuperLeague Highlights" tvg-logo="https://cdn.worldvectorlogo.com/logos/nova-sport.svg" group-title="|EU| GREECE",VIP|GR|: Nova Sports SuperLeague Highlights
-http://magco.rip:8000/41768156306870/41660681797044/86726
-#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="VIP|GR|: Nova Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRLS4Yionio39FW_Np0OPhuG-mtUInW9RDusq1EyQFldztx3v&s" group-title="|EU| GREECE",VIP|GR|: Nova Sports 1
-http://magco.rip:8000/41768156306870/41660681797044/86730
-#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="VIP|GR|: Nova Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7VIWJxwtxIuQUfyqM7YZ9MP7ebU-mC6L2FCwaQoQlX0WcZec&s" group-title="|EU| GREECE",VIP|GR|: Nova Sports 2
-http://magco.rip:8000/41768156306870/41660681797044/86728
-#EXTINF:-1 tvg-id="NovaSports3.gr" tvg-name="VIP|GR|: Nova Sports 3 ( Only During Live Matches )" tvg-logo="https://www.corfusports.com/cs/images/nov.jpg" group-title="|EU| GREECE",VIP|GR|: Nova Sports 3 ( Only During Live Matches )
-http://magco.rip:8000/41768156306870/41660681797044/86729
-#EXTINF:-1 tvg-id="NovaSports4.gr" tvg-name="VIP|GR|: Nova Sports 4 ( Only During Live Matches )" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/novasports4.png?m=1458723209" group-title="|EU| GREECE",VIP|GR|: Nova Sports 4 ( Only During Live Matches )
-http://magco.rip:8000/41768156306870/41660681797044/86727
-#EXTINF:-1 tvg-id="Nickelodeon.gr" tvg-name="VIP|GR|: Nickelodeon" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png" group-title="|EU| GREECE",VIP|GR|: Nickelodeon
-http://magco.rip:8000/41768156306870/41660681797044/86731
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: NET TV" tvg-logo="https://i.ya-webdesign.com/images/logo-net-tv-png-1.png" group-title="|EU| GREECE",VIP|GR|: NET TV
-http://magco.rip:8000/41768156306870/41660681797044/86732
-#EXTINF:-1 tvg-id="NauticalChannel.gr" tvg-name="VIP|GR|: Nautical Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="|EU| GREECE",VIP|GR|: Nautical Channel
-http://magco.rip:8000/41768156306870/41660681797044/86733
-#EXTINF:-1 tvg-id="NatGeoWild.gr" tvg-name="VIP|GR|: National Geographic Wild" tvg-logo="https://yt3.ggpht.com/a/AGF-l79MrcMepj4fnV0aaam0uq0P3zVDDfjqgirC9A=s900-c-k-c0xffffffff-no-rj-mo" group-title="|EU| GREECE",VIP|GR|: National Geographic Wild
-http://magco.rip:8000/41768156306870/41660681797044/86734
-#EXTINF:-1 tvg-id="NatGeo.gr" tvg-name="VIP|GR|: National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="|EU| GREECE",VIP|GR|: National Geographic
-http://magco.rip:8000/41768156306870/41660681797044/86735
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="VIP|GR|: MTV" tvg-logo="https://images.vectorhq.com/images/previews/079/mtv-logo-psd-442571.png" group-title="|EU| GREECE",VIP|GR|: MTV
-http://magco.rip:8000/41768156306870/41660681797044/86736
-#EXTINF:-1 tvg-id="Motorvision.gr" tvg-name="VIP|GR|: Motorvision TV" tvg-logo="https://en.motorvision.tv/wp-content/uploads/2017/10/motorvision-tv-logo-2017.jpg" group-title="|EU| GREECE",VIP|GR|: Motorvision TV
-http://magco.rip:8000/41768156306870/41660681797044/86737
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Mezzo" tvg-logo="https://static1.ozap.com/articles/5/58/12/55/@/4619831-mezzo-article_media_image-2.png" group-title="|EU| GREECE",VIP|GR|: Mezzo
-http://magco.rip:8000/41768156306870/41660681797044/86738
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Makedonia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0akNbngoM9fQjfPNi9Mk3zVqQu8Ea_5AnaNUVUtNnPOJID64J&s" group-title="|EU| GREECE",VIP|GR|: Makedonia TV
-http://magco.rip:8000/41768156306870/41660681797044/86739
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: MAD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_of_MADtv.png" group-title="|EU| GREECE",VIP|GR|: MAD TV
-http://magco.rip:8000/41768156306870/41660681797044/86740
-#EXTINF:-1 tvg-id="Mad.gr" tvg-name="VIP|GR|: MAD Viral HD" tvg-logo="https://pbs.twimg.com/profile_images/457270274161786880/0AioAaV8_400x400.png" group-title="|EU| GREECE",VIP|GR|: MAD Viral HD
-http://magco.rip:8000/41768156306870/41660681797044/86741
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Mad Greeks" tvg-logo="https://cdn.imgbin.com/2/24/11/imgbin-greece-mad-tv-me-lene-popi-mad-greekz-television-closedcircuit-television-camera-BHFGjwZFPzxXnKpQkUmJf2LST.jpg" group-title="|EU| GREECE",VIP|GR|: Mad Greeks
-http://magco.rip:8000/41768156306870/41660681797044/86742
-#EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="VIP|GR|: Kontra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBdPCZIKtDAWTARXfIc2NiQSvaABOJXx8iPNTLHE7ORLwXhWo&s" group-title="|EU| GREECE",VIP|GR|: Kontra TV
-http://magco.rip:8000/41768156306870/41660681797044/86743
-#EXTINF:-1 tvg-id="iConcerts.gr" tvg-name="VIP|GR|: i Concerts" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/I_concerts_logo.png" group-title="|EU| GREECE",VIP|GR|: i Concerts
-http://magco.rip:8000/41768156306870/41660681797044/86744
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: FOX Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="|EU| GREECE",VIP|GR|: FOX Sports HD
-http://magco.rip:8000/41768156306870/41660681797044/86745
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: FOX Life" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Fox_Life_France.svg/1280px-Fox_Life_France.svg.png" group-title="|EU| GREECE",VIP|GR|: FOX Life
-http://magco.rip:8000/41768156306870/41660681797044/86746
-#EXTINF:-1 tvg-id="FOX.gr" tvg-name="VIP|GR|: FOX" tvg-logo="https://img.favpng.com/18/11/4/fox-broadcasting-company-fox-life-television-channel-television-show-png-favpng-3BLvSqWWCBGGAz69aPibgbs53.jpg" group-title="|EU| GREECE",VIP|GR|: FOX
-http://magco.rip:8000/41768156306870/41660681797044/86747
-#EXTINF:-1 tvg-id="FoodNetwork.gr" tvg-name="VIP|GR|: Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="|EU| GREECE",VIP|GR|: Food Network
-http://magco.rip:8000/41768156306870/41660681797044/86748
-#EXTINF:-1 tvg-id="FineLiving.gr" tvg-name="VIP|GR|: Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="|EU| GREECE",VIP|GR|: Fine Living
-http://magco.rip:8000/41768156306870/41660681797044/86749
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Euronews" tvg-logo="https://media.cdnandroid.com/5b/b2/f7/0a/57/imagen-euronews-express-0big.jpg" group-title="|EU| GREECE",VIP|GR|: Euronews
-http://magco.rip:8000/41768156306870/41660681797044/86750
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: EPT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ERT_SPORTS_HD_LOGO.png" group-title="|EU| GREECE",VIP|GR|: EPT Sports
-http://magco.rip:8000/41768156306870/41660681797044/86751
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: EPT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/480px-EPT1_logo_%282015%29.svg.png" group-title="|EU| GREECE",VIP|GR|: EPT 1
-http://magco.rip:8000/41768156306870/41660681797044/86754
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: EPT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1280px-EPT2_logo_%282015%29.svg.png" group-title="|EU| GREECE",VIP|GR|: EPT 2
-http://magco.rip:8000/41768156306870/41660681797044/86753
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: EPT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1280px-EPT3_logo_%282015%29.svg.png" group-title="|EU| GREECE",VIP|GR|: EPT 3
-http://magco.rip:8000/41768156306870/41660681797044/86752
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Best TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PwjxTfjyU4LfzRikzyFE6ihkuX8oqt2XUS6ZMoeGTB4CsB-O&s" group-title="|EU| GREECE",VIP|GR|: Best TV
-http://magco.rip:8000/41768156306870/41660681797044/86755
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Ena Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdEz22n0k1nw3m9buiu9rnUH0lKpNNheUhCbnDFM0IihLEfAI&s" group-title="|EU| GREECE",VIP|GR|: Ena Channel
-http://magco.rip:8000/41768156306870/41660681797044/86756
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: E! Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaOI188KAD-76UuXRL6QTxsDvxqDcRLXkhQGj2NZqASAyHQKq&s" group-title="|EU| GREECE",VIP|GR|: E! Entertainment
-http://magco.rip:8000/41768156306870/41660681797044/86757
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="|EU| GREECE",VIP|GR|: Disney XD
-http://magco.rip:8000/41768156306870/41660681797044/86758
-#EXTINF:-1 tvg-id="DisneyJunior.gr" tvg-name="VIP|GR|: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="|EU| GREECE",VIP|GR|: Disney Junior
-http://magco.rip:8000/41768156306870/41660681797044/86759
-#EXTINF:-1 tvg-id="DisneyChannel.gr" tvg-name="VIP|GR|: Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="|EU| GREECE",VIP|GR|: Disney Channel
-http://magco.rip:8000/41768156306870/41660681797044/86760
-#EXTINF:-1 tvg-id="DiscoveryShowcase.gr" tvg-name="VIP|GR|: Discovery Showcase" tvg-logo="https://www.pngitem.com/pimgs/m/364-3642661_n-discovery-showcase-hd-animal-planet-logo-hd.png" group-title="|EU| GREECE",VIP|GR|: Discovery Showcase
-http://magco.rip:8000/41768156306870/41660681797044/86761
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="|EU| GREECE",VIP|GR|: Discovery Science
-http://magco.rip:8000/41768156306870/41660681797044/86762
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="VIP|GR|: Discovery ID" tvg-logo="https://img.favpng.com/16/6/4/investigation-discovery-television-show-logo-png-favpng-Ug9YerL3tuLsK2chRsyw1uMiu.jpg" group-title="|EU| GREECE",VIP|GR|: Discovery ID
-http://magco.rip:8000/41768156306870/41660681797044/86763
-#EXTINF:-1 tvg-id="DiscoveryChannel.gr" tvg-name="VIP|GR|: Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="|EU| GREECE",VIP|GR|: Discovery Channel
-http://magco.rip:8000/41768156306870/41660681797044/86764
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Crime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="|EU| GREECE",VIP|GR|: Crime Investigation
-http://magco.rip:8000/41768156306870/41660681797044/86765
-#EXTINF:-1 tvg-id="Creta.gr" tvg-name="VIP|GR|: Creta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Tv_creta_logo.png" group-title="|EU| GREECE",VIP|GR|: Creta
-http://magco.rip:8000/41768156306870/41660681797044/86766
-#EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-name="VIP|GR|: Cosmote Sport Highlights" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-Highlights-HD-dig.jpg?v=3" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport Highlights
-http://magco.rip:8000/41768156306870/41660681797044/86767
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="VIP|GR|: Cosmote Sport 1" tvg-logo="https://media02.statarea.com/images/tv/957.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 1
-http://magco.rip:8000/41768156306870/41660681797044/86776
-#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-name="VIP|GR|: Cosmote Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPDS1oerofS6HEXFWxUSAznzuwXv_y-0GmvVCFm8thh17liyN&s" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 2
-http://magco.rip:8000/41768156306870/41660681797044/86775
-#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-name="VIP|GR|: Cosmote Sport 3" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcosmote_gr_sport_3_hd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 3
-http://magco.rip:8000/41768156306870/41660681797044/86774
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 4" tvg-logo="https://3.bp.blogspot.com/-CaxsBEUGZWc/Wc-3Y_M-7hI/AAAAAAAACPg/ajC9rnpzmD4JwNOy4UOtbtGZwsqefvnaQCLcBGAs/s1600/cosmote%2Bsport%2B4%2Bhd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 4
-http://magco.rip:8000/41768156306870/41660681797044/86773
-#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-name="VIP|GR|: Cosmote Sport 5" tvg-logo="https://media02.statarea.com/images/tv/962.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 5
-http://magco.rip:8000/41768156306870/41660681797044/86772
-#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-name="VIP|GR|: Cosmote Sport 6" tvg-logo="https://sport-tv-guide.live/images/stations/a388.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 6
-http://magco.rip:8000/41768156306870/41660681797044/86771
-#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-name="VIP|GR|: Cosmote Sport 7" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcosmote_gr_sport_7_hd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 7
-http://magco.rip:8000/41768156306870/41660681797044/86770
-#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-name="VIP|GR|: Cosmote Sport 8" tvg-logo="https://media02.statarea.com/images/tv/958.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 8
-http://magco.rip:8000/41768156306870/41660681797044/86769
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 9" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fcosmotesport9hd.gif" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 9
-http://magco.rip:8000/41768156306870/41660681797044/86768
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Cosmote Series" tvg-logo="https://www.paobc.gr/image.ashx?fid=44965&w=800&q=80" group-title="|EU| GREECE",VIP|GR|: Cosmote Series
-http://magco.rip:8000/41768156306870/41660681797044/86777
-#EXTINF:-1 tvg-id="CosmoteHistory.gr" tvg-name="VIP|GR|: Cosmote History" tvg-logo="https://upload.wikimedia.org/wikipedia/el/9/92/Cosmote_Hisory.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote History
-http://magco.rip:8000/41768156306870/41660681797044/86778
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Cinema 1" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 1
-http://magco.rip:8000/41768156306870/41660681797044/86781
-#EXTINF:-1 tvg-id="CosmoteCinema2.gr" tvg-name="VIP|GR|: Cosmote Cinema 2" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 2
-http://magco.rip:8000/41768156306870/41660681797044/86780
-#EXTINF:-1 tvg-id="CosmoteCinema3.gr" tvg-name="VIP|GR|: Cosmote Cinema 3" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 3
-http://magco.rip:8000/41768156306870/41660681797044/86779
-#EXTINF:-1 tvg-id="Channel9.gr" tvg-name="VIP|GR|: Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX01D8cbI67J_bMq6etzsQAsaKMgpHxH56E8gkdAN3NpoEYuSp&s" group-title="|EU| GREECE",VIP|GR|: Channel 9
-http://magco.rip:8000/41768156306870/41660681797044/86782
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: CBS Reality" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13G3rmQ0PX329sw1uE9eO08cBi8PDlCb6Rs6AdgegY6NHuoWi&s" group-title="|EU| GREECE",VIP|GR|: CBS Reality
-http://magco.rip:8000/41768156306870/41660681797044/86783
-#EXTINF:-1 tvg-id="BodyBalance.gr" tvg-name="VIP|GR|: Body in Balance" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJzokOP8_cV2j1QDD5Blz_tgLu_MdQZ4mj0cXjWDNcAg1KGzE&s" group-title="|EU| GREECE",VIP|GR|: Body in Balance
-http://magco.rip:8000/41768156306870/41660681797044/86784
-#EXTINF:-1 tvg-id="BBCEarth.gr" tvg-name="VIP|GR|: BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BBC_Earth.jpg/220px-BBC_Earth.jpg" group-title="|EU| GREECE",VIP|GR|: BBC Earth
-http://magco.rip:8000/41768156306870/41660681797044/86785
-#EXTINF:-1 tvg-id="BabyTV.gr" tvg-name="VIP|GR|: Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="|EU| GREECE",VIP|GR|: Baby TV
-http://magco.rip:8000/41768156306870/41660681797044/86786
-#EXTINF:-1 tvg-id="ART.gr" tvg-name="VIP|GR|: ART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/1280px-Arte_HD_Verlauf_Logo.svg.png" group-title="|EU| GREECE",VIP|GR|: ART
-http://magco.rip:8000/41768156306870/41660681797044/86787
-#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="VIP|GR|: ANT1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="|EU| GREECE",VIP|GR|: ANT1
-http://magco.rip:8000/41768156306870/41660681797044/86788
-#EXTINF:-1 tvg-id="AnimalPlanet.gr" tvg-name="VIP|GR|: Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="|EU| GREECE",VIP|GR|: Animal Planet
-http://magco.rip:8000/41768156306870/41660681797044/86789
-#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="VIP|GR|: Alpha" tvg-logo="http://www.topstb.info/logo/GREECE%20/ALPH.png" group-title="|EU| GREECE",VIP|GR|: Alpha
-http://magco.rip:8000/41768156306870/41660681797044/86790
-#EXTINF:-1 tvg-id="Action24.gr" tvg-name="VIP|GR|: Action 24" tvg-logo="http://www.topstb.info/logo/GREECE%20/ACTION24.png" group-title="|EU| GREECE",VIP|GR|: Action 24
-http://magco.rip:8000/41768156306870/41660681797044/86791
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="VIP|GR|: 4E" tvg-logo="http://www.endeavor.org/content/uploads/2015/05/Logo%20-%204e%20M%C3%A9xico.png" group-title="|EU| GREECE",VIP|GR|: 4E
-http://magco.rip:8000/41768156306870/41660681797044/86792
-#EXTINF:-1 tvg-id="" tvg-name="***** Greek Channels *****" tvg-logo="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-06-512.png" group-title="|EU| GREECE",***** Greek Channels *****
-http://magco.rip:8000/41768156306870/41660681797044/86793
-#EXTINF:-1 tvg-id="NovaCinema1.gr" tvg-name="VIP|GR|: Nova Cinema 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8L3xx87oWwK9x2m_OQyA6Nc8z70u35a0Itggbk3QzBpQ_yBoW&s" group-title="|EU| GREECE",VIP|GR|: Nova Cinema 1 HD
-http://magco.rip:8000/41768156306870/41660681797044/86798
-#EXTINF:-1 tvg-id="NovaCinema2.gr" tvg-name="VIP|GR|: Nova Cinema 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUiTPUDU81wMwuniBh-l6FKD3uI2uvvmj05lWb-gaYcifqK9W&s" group-title="|EU| GREECE",VIP|GR|: Nova Cinema 2 HD
-http://magco.rip:8000/41768156306870/41660681797044/86797
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Nova Cinema 3 HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/tv/novacinema31604050130.jpg?r=1459483291" group-title="|EU| GREECE",VIP|GR|: Nova Cinema 3 HD
-http://magco.rip:8000/41768156306870/41660681797044/86796
-#EXTINF:-1 tvg-id="NovaCinema4.gr" tvg-name="VIP|GR|: Nova Cinema 4 HD" tvg-logo="https://ewsat.com/img/NOVA_CINEMA_4.png" group-title="|EU| GREECE",VIP|GR|: Nova Cinema 4 HD
-http://magco.rip:8000/41768156306870/41660681797044/86795
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Nova Sports 24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStd7k2MkvHBgE8Gxs89MS2CCVeufn2jiBmtbpisy_ssILDxlV1&s" group-title="|EU| GREECE",VIP|GR|: Nova Sports 24 HD
-http://magco.rip:8000/41768156306870/41660681797044/86794
-#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="VIP|GR|: Nova Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8L3xx87oWwK9x2m_OQyA6Nc8z70u35a0Itggbk3QzBpQ_yBoW&s" group-title="|EU| GREECE",VIP|GR|: Nova Sports 1 HD
-http://magco.rip:8000/41768156306870/41660681797044/86803
-#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="VIP|GR|: Nova Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxFFLX06L_1ZzsOGlANW44vuqHjfXLdHeJw18iCmjqQANq2wm&s" group-title="|EU| GREECE",VIP|GR|: Nova Sports 2 HD
-http://magco.rip:8000/41768156306870/41660681797044/86802
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Nova Sports 3 HD ( Only During Live Events )" tvg-logo="https://1.bp.blogspot.com/-HuSL-tYAdV4/U_Ld38AjsSI/AAAAAAAASlc/6BPh1v3PI1M/s1600/Novacinema%2B3.jpg" group-title="|EU| GREECE",VIP|GR|: Nova Sports 3 HD ( Only During Live Events )
-http://magco.rip:8000/41768156306870/41660681797044/86801
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Nova Sports 4 HD ( Only During Live Events )" tvg-logo="https://ewsat.com/img/NOVA_CINEMA_4.png" group-title="|EU| GREECE",VIP|GR|: Nova Sports 4 HD ( Only During Live Events )
-http://magco.rip:8000/41768156306870/41660681797044/86800
-#EXTINF:-1 tvg-id="NovaSports5.gr" tvg-name="VIP|GR|: Nova Sports 5 HD ( Only During Live Events )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="|EU| GREECE",VIP|GR|: Nova Sports 5 HD ( Only During Live Events )
-http://magco.rip:8000/41768156306870/41660681797044/86799
-#EXTINF:-1 tvg-id="" tvg-name="##### ΑΘΛΗΤΙΚΑ ΚΑΝΑΛΙΑ #####" tvg-logo="https://cdn.countryflags.com/thumbs/greece/flag-button-round-250.png" group-title="|EU| GREECE",##### ΑΘΛΗΤΙΚΑ ΚΑΝΑΛΙΑ #####
-http://magco.rip:8000/41768156306870/41660681797044/86808
-#EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-name="VIP|GR|: Cosmote Sport Highlights HD" tvg-logo="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-Highlights-HD-dig.jpg?v=3" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport Highlights HD
-http://magco.rip:8000/41768156306870/41660681797044/86809
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="VIP|GR|: Cosmote Sport 1 HD" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/11/cosmote-sport1-frequence-eutelsat.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 1 HD
-http://magco.rip:8000/41768156306870/41660681797044/86810
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPDS1oerofS6HEXFWxUSAznzuwXv_y-0GmvVCFm8thh17liyN&s" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 2 HD
-http://magco.rip:8000/41768156306870/41660681797044/86811
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 3 HD" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcosmote_gr_sport_3_hd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 3 HD
-http://magco.rip:8000/41768156306870/41660681797044/86812
-#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="VIP|GR|: Cosmote Sport 4 HD" tvg-logo="https://3.bp.blogspot.com/-CaxsBEUGZWc/Wc-3Y_M-7hI/AAAAAAAACPg/ajC9rnpzmD4JwNOy4UOtbtGZwsqefvnaQCLcBGAs/s1600/cosmote%2Bsport%2B4%2Bhd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 4 HD
-http://magco.rip:8000/41768156306870/41660681797044/86813
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 5 HD" tvg-logo="https://media02.statarea.com/images/tv/962.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 5 HD
-http://magco.rip:8000/41768156306870/41660681797044/86814
-#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-name="VIP|GR|: Cosmote Sport 6 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a388.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 6 HD
-http://magco.rip:8000/41768156306870/41660681797044/86815
-#EXTINF:-1 tvg-id="NULL" tvg-name="VIP|GR|: Cosmote Sport 7 HD" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcosmote_gr_sport_7_hd.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 7 HD
-http://magco.rip:8000/41768156306870/41660681797044/86816
-#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-name="VIP|GR|: Cosmote Sport 8 HD" tvg-logo="https://media02.statarea.com/images/tv/958.png" group-title="|EU| GREECE",VIP|GR|: Cosmote Sport 8 HD
-http://magco.rip:8000/41768156306870/41660681797044/86817
-#EXTINF:-1 tvg-id="CosmoteCinema1.gr" tvg-name="VIP|GR|: Cosmote Cinema 1 HD" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 1 HD
-http://magco.rip:8000/41768156306870/41660681797044/86818
-#EXTINF:-1 tvg-id="CosmoteCinema2.gr" tvg-name="VIP|GR|: Cosmote Cinema 2 HD" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 2 HD
-http://magco.rip:8000/41768156306870/41660681797044/86819
-#EXTINF:-1 tvg-id="CosmoteCinema3.gr" tvg-name="VIP|GR|: Cosmote Cinema 3 HD" tvg-logo="https://cdn.imgbin.com/8/6/11/imgbin-cosmote-tv-cosmote-cinema-film-greece-BPZn8NKuLJ85HccMQvugrr95T.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Cinema 3 HD
-http://magco.rip:8000/41768156306870/41660681797044/86820
-#EXTINF:-1 tvg-id="" tvg-name="VIP|GR|: Cosmote Series HD" tvg-logo="https://digitaltvinfo.gr/media/k2/items/cache/c2f686186de8037f1b82d287bf2b19c7_XL.jpg" group-title="|EU| GREECE",VIP|GR|: Cosmote Series HD
-http://magco.rip:8000/41768156306870/41660681797044/86821
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| RIK SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/52/Logo_RIK_Sat.png" group-title="|EU| GREECE",|GR| RIK SAT
-http://magco.rip:8000/41768156306870/41660681797044/77590
-#EXTINF:-1 tvg-id="" tvg-name="|GR| 4E TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabHio7esQOKGO1aF7Z2BAiRFTq3wnFgMGxr9gt2w0KeixR7aH&s" group-title="|EU| GREECE",|GR| 4E TV
-http://magco.rip:8000/41768156306870/41660681797044/77591
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| ALPHA TV" tvg-logo="http://www.topstb.info/logo/GREECE%20/ALPH.png" group-title="|EU| GREECE",|GR| ALPHA TV
-http://magco.rip:8000/41768156306870/41660681797044/77592
-#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="|GR| ANT 1" tvg-logo="http://www.topstb.info/logo/GREECE%20/ANT1.png" group-title="|EU| GREECE",|GR| ANT 1
-http://magco.rip:8000/41768156306870/41660681797044/77593
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| START" tvg-logo="http://www.topstb.info/logo/GREECE%20/STAR.png" group-title="|EU| GREECE",|GR| START
-http://magco.rip:8000/41768156306870/41660681797044/77594
-#EXTINF:-1 tvg-id="NeaTVCrete.gr" tvg-name="|GR| NEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/New_logo_nd.png" group-title="|EU| GREECE",|GR| NEA
-http://magco.rip:8000/41768156306870/41660681797044/77595
-#EXTINF:-1 tvg-id="" tvg-name="|GR| ERT SPORTS" tvg-logo="http://www.topstb.info/logo/GREECE%20/ERTHD.png" group-title="|EU| GREECE",|GR| ERT SPORTS
-http://magco.rip:8000/41768156306870/41660681797044/77596
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| EPT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/EPT1_logo_%282015%29.svg" group-title="|EU| GREECE",|GR| EPT 1
-http://magco.rip:8000/41768156306870/41660681797044/77597
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| EPT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/EPT2_logo_%282015%29.svg" group-title="|EU| GREECE",|GR| EPT 2
-http://magco.rip:8000/41768156306870/41660681797044/77598
-#EXTINF:-1 tvg-id="" tvg-name="|GR| EPT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/EPT3_logo_%282015%29.svg" group-title="|EU| GREECE",|GR| EPT 3
-http://magco.rip:8000/41768156306870/41660681797044/77599
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| ACTION 24" tvg-logo="http://www.topstb.info/logo/GREECE%20/ACTION24.png" group-title="|EU| GREECE",|GR| ACTION 24
-http://magco.rip:8000/41768156306870/41660681797044/77600
-#EXTINF:-1 tvg-id="Mad.gr" tvg-name="|GR| MAD" tvg-logo="http://www.topstb.info/logo/GREECE%20/MAD.png" group-title="|EU| GREECE",|GR| MAD
-http://magco.rip:8000/41768156306870/41660681797044/77601
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| SMILE" tvg-logo="http://www.topstb.info/logo/GREECE%20/SMILE.png" group-title="|EU| GREECE",|GR| SMILE
-http://magco.rip:8000/41768156306870/41660681797044/77602
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|GR| MEGA TV" tvg-logo="http://www.topstb.info/logo/GREECE%20/MEGA.png" group-title="|EU| GREECE",|GR| MEGA TV
-http://magco.rip:8000/41768156306870/41660681797044/77603
-#EXTINF:-1 tvg-id="" tvg-name="|GR| SKAI" tvg-logo="http://www.topstb.info/logo/GREECE%20/SKAI.png" group-title="|EU| GREECE",|GR| SKAI
-http://magco.rip:8000/41768156306870/41660681797044/77604
-#EXTINF:-1 tvg-id="Star.gr" tvg-name="|GR| STAR" tvg-logo="http://www.topstb.info/logo/GREECE%20/STAR.png" group-title="|EU| GREECE",|GR| STAR
-http://magco.rip:8000/41768156306870/41660681797044/77605
+#EXTINF:0,------|xxx-VIP|------
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2986
+#EXTINF:0,VIP001:Pinko TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2985
+#EXTINF:0,VIP002:Erotic XXX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2984
+#EXTINF:0,VIP003:PlayBoy TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2983
+#EXTINF:0,VIP004:Hustler TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2982
+#EXTINF:0,VIP005:JASMIN.TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2981
+#EXTINF:0,VIP006:French Lover
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2980
+#EXTINF:0,VIP007:Venus HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2979
+#EXTINF:0,VIP008:DUSK
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2978
+#EXTINF:0,VIP009:Brazzers
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2977
+#EXTINF:0,VIP010:Passie XXX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2976
+#EXTINF:0,VIP011:Penthouse
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2975
+#EXTINF:0,VIP012:Maidenvan Holland
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2974
+#EXTINF:0,VIP013:Superone
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2973
+#EXTINF:0,VIP014:Babes 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2972
+#EXTINF:0,VIP015:Babes 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2971
+#EXTINF:0,VIP016:Babes 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2970
+#EXTINF:0,VIP017:Babes 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2969
+#EXTINF:0,VIP018:Babes 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2968
+#EXTINF:0,VIP019:Babes 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2967
+#EXTINF:0,VIP020:Babes 8
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2966
+#EXTINF:0,VIP021:Babes 9
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2965
+#EXTINF:0,VIP022:CENTO XCENTO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2964
+#EXTINF:0,VIP023:Erotic 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2963
+#EXTINF:0,VIP024:Erotic 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2962
+#EXTINF:0,VIP025:Erotic 7
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2961
+#EXTINF:0,VIP026:Erotic 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2960
+#EXTINF:0,VIP027:Miami TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2959
+#EXTINF:0,VIP028:Red Light
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/2958
+#EXTINF:0,VIP041:SEXTREME
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33151
+#EXTINF:0,VIP042:XY Plus HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33150
+#EXTINF:0,VIP043:Russian Night
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33149
+#EXTINF:0,VIP044:Barely Legal TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33148
+#EXTINF:0,VIP045:Leo TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33147
+#EXTINF:0,VIP046:Vivid TV Europe
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33146
+#EXTINF:0,VIP047:DUSK!
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33145
+#EXTINF:0,VIP048:Hustler TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33144
+#EXTINF:0,VIP049:XXL
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33143
+#EXTINF:0,VIP050:Passie XXX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33142
+#EXTINF:0,VIP051:Passion XXX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33141
+#EXTINF:0,VIP052:Reality Kings TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33140
+#EXTINF:0,VIP053:Pink O TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33139
+#EXTINF:0,VIP054:BALKAN EROTIC
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33138
+#EXTINF:0,VIP055:Sext & Senso
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33137
+#EXTINF:0,VIP056:SCT Classic
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33136
+#EXTINF:0,VIP057:Brazzers TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33135
+#EXTINF:0,VIP058:Dream Porn
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33134
+#EXTINF:0,VIP059:Brazzers TV Europe Russian
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33133
+#EXTINF:0,VIP060:Hot TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33132
+#EXTINF:0,VIP061:Venus TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33131
+#EXTINF:0,VIP062:VENUS_LA1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33130
+#EXTINF:0,VIP063:Sexy HOT
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33129
+#EXTINF:0,VIP064:Meiden Van Holland Hard
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33128
+#EXTINF:0,VIP065:X Bizarre
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33127
+#EXTINF:0,VIP066:X Desire
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33126
+#EXTINF:0,VIP067:X Bunga Bunga
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33125
+#EXTINF:0,VIP068:Pink Erotic
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33124
+#EXTINF:0,VIP069:Pink Erotic 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33123
+#EXTINF:0,VIP070:Pink Erotic 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33122
+#EXTINF:0,VIP071:Pink Erotic 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33121
+#EXTINF:0,VIP072:Pink Erotic 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33120
+#EXTINF:0,VIP073:Pink Erotic 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33119
+#EXTINF:0,VIP074:Pink Erotic 7
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33118
+#EXTINF:0,VIP075:Pink Erotic 8
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33117
+#EXTINF:0,VIP076:Balkan Erotic
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33116
+#EXTINF:0,VIP077:TenX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33115
+#EXTINF:0,VIP078:DORCEL
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33114
+#EXTINF:0,VIP079:Bang U
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33113
+#EXTINF:0,VIP080:Playboy Europe
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33112
+#EXTINF:0,VIP081:Blue Hustler
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33111
+#EXTINF:0,VIP082:Hot Pleasure
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33110
+#EXTINF:0,VIP083:French Lover
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33109
+#EXTINF:0,VIP084:French Lover Europe
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33108
+#EXTINF:0,VIP085:Extrem
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33107
+#EXTINF:0,VIP086:BRAZZERS TV EUROPE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33106
+#EXTINF:0,VIP087:Fake Taxi
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33105
+#EXTINF:0,VIP088:Emanuelle
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33104
+#EXTINF:0,VIP089:Bangerz
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33103
+#EXTINF:0,VIP090:BARELY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33102
+#EXTINF:0,VIP091:Blonde Solo
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33101
+#EXTINF:0,VIP092:Fetish
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33100
+#EXTINF:0,VIP093:Compilation
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33099
+#EXTINF:0,VIP094:FAP TV PARODY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33098
+#EXTINF:0,VIP095:FAP TV TEENS
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33097
+#EXTINF:0,VIP096:FAP TV 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33096
+#EXTINF:0,VIP097:FAP TV 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33095
+#EXTINF:0,VIP098:FAP TV ANAL
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33094
+#EXTINF:0,VIP099:VIVID RED HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33093
+#EXTINF:0,VIP100:ERO-X
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33092
+#EXTINF:0,VIP101:Secret Circle TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33091
+#EXTINF:0,VIP102:Candy TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33090
+#EXTINF:0,VIP103:Penthouse Quickies
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33089
+#EXTINF:0,VIP104:PRIVATE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33088
+#EXTINF:0,VIP105:X-MO GAY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33087
+#EXTINF:0,VIP106:Latina
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33086
+#EXTINF:0,VIP107:Beate Uhse.TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33085
+#EXTINF:0,VIP108:XY max
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33084
+#EXTINF:0,VIP109:Candyman Gay Men
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33083
+#EXTINF:0,VIP110:Fast Boyz Gay Men
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33082
+#EXTINF:0,VIP111:France a Poil4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33081
+#EXTINF:0,VIP112:Jasmin TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33080
+#EXTINF:0,VIP113:Secret Circle
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33079
+#EXTINF:0,VIP114:SEXTO & SENSO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33078
+#EXTINF:0,VIP115:XXX Stars FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33077
+#EXTINF:0,VIP116:JASMIN.TV HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33076
+#EXTINF:0,VIP117:VIVID RED FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33075
+#EXTINF:0,VIP118:VIVID TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33074
+#EXTINF:0,VIP119:X-MO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/33073
+#EXTINF:0,VIP120:O-la-la
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60658
+#EXTINF:0,VIP122:Satisfaction_
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60659
+#EXTINF:0,VIP123:Evil_Angel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60660
+#EXTINF:0,VIP124:XYPlus TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60661
+#EXTINF:0,VIP125:Gay Channel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60662
+#EXTINF:0,VIP126:NUART
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60663
+#EXTINF:0,VIP127:Penthouse Gold
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60664
+#EXTINF:0,VIP128:Penthouse 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60665
+#EXTINF:0,VIP129:Penthouse 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60666
+#EXTINF:0,VIP130:Max 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60667
+#EXTINF:0,VIP131:HotClub 9
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60668
+#EXTINF:0,VIP132:HotClub 8
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60669
+#EXTINF:0,VIP133:HotClub 7
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60670
+#EXTINF:0,VIP134:HotClub 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60671
+#EXTINF:0,VIP135:HotClub 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60672
+#EXTINF:0,VIP136:HotClub 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60673
+#EXTINF:0,VIP137:HotClub 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60674
+#EXTINF:0,VIP138:HotClub 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60675
+#EXTINF:0,VIP139:HotClub 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60676
+#EXTINF:0,VIP140:Redlight HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60677
+#EXTINF:0,VIP141:Pr#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60678
+#EXTINF:0,VIP142:Dorcel XXX HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60679
+#EXTINF:0,VIP143:Hot XXL HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60680
+#EXTINF:0,VIP144:Erox HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60681
+#EXTINF:0,VIP145:Erox XXX HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60682
+#EXTINF:0,VIP146:Prive TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60683
+#EXTINF:0,VIP147:Taboo
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60684
+#EXTINF:0,VIP148:Oldtimer
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60685
+#EXTINF:0,VIP149:SINSATIONS: MOFOS 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60686
+#EXTINF:0,VIP150:Net XX
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60687
+#EXTINF:0,VIP151:Playhouse
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60688
+#EXTINF:0,VIP152:Milf TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60689
+#EXTINF:0,VIP153:Balkan Hot
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60690
+#EXTINF:0,VIP154:Balkan Hot 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60691
+#EXTINF:0,VIP155:Just 89
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60692
+#EXTINF:0,VIP156:A3 Bikini TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60693
+#EXTINF:0,VIP157:Exxxotica TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60694
+#EXTINF:0,VIP158:CZECH STREETS F
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60695
+#EXTINF:0,VIP159:ALBA 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60696
+#EXTINF:0,VIP160:ALBA 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60697
+#EXTINF:0,VIP161:ALBA 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60698
+#EXTINF:0,VIP162:ALBA 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60699
+#EXTINF:0,VIP163:ALBA 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60700
+#EXTINF:0,VIP164:ALBA 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60701
+#EXTINF:0,VIP165:SEXT6SENSO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60702
+#EXTINF:0,VIP166:VIP:Russian
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60703
+#EXTINF:0,VIP167:VIP:Threesome
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60704
+#EXTINF:0,VIP168:VIP:Cuckold
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60705
+#EXTINF:0,VIP170:VIP:Teen
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60706
+#EXTINF:0,BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64751.mp4
+#EXTINF:0,BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64752.mp4
+#EXTINF:0,BigTitsAtWork.20.03.12.Alena.Croft.Shes.A.Smooth.Operator
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64753.mp4
+#EXTINF:0,BigWetButts.20.03.11.Vicki.Chase.Domasstic.Maintenance
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64754.mp4
+#EXTINF:0,BigWetButts.20.06.16.Angela.White.Jean.Queen
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64755.mp4
+#EXTINF:0,BigWetButts.20.06.27.Jada.Stevens.And.Sheena.Shaw.Junk.In.The.Trunk.REMASTERED
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64756.mp4
+#EXTINF:0,BrazzersExxtra.20.03.11.Vanessa.Sky.Anal.About.Chores
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64757.mp4
+#EXTINF:0,BrazzersExxtra.20.03.14.Cherie.Deville.Cumplimentary.Training.Session
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64758.mp4
+#EXTINF:0,BrazzersExxtra.20.03.16.Monique.Alexander.Wrong.Side.Of.The.Bed
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64759.mp4
+#EXTINF:0,BrazzersExxtra.20.03.18.Tiffany.Watson.Facial.By.Surprise
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64760.mp4
+#EXTINF:0,BrazzersExxtra.20.03.19.Desiree.Dulce.Used
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64761.mp4
+#EXTINF:0,BrazzersExxtra.20.03.20.Halle.Hayes.Hide.The.Pickle
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64762.mp4
+#EXTINF:0,BrazzersExxtra.20.03.21.Azul.Hermosa.Diva.For.A.Day
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64763.mp4
+#EXTINF:0,BrazzersExxtra.20.06.04.Aubree.Valentine.Soaking.Wet.And.Fully.Satisfied
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64764.mp4
+#EXTINF:0,BrazzersExxtra.20.06.05.Best.Of.Brazzers.First.Anals
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64765.mp4
+#EXTINF:0,BrazzersExxtra.20.06.08.Madison.Ivy.And.Kendra.Sunderland.Bodacious.Bikini.Threesome
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64766.mp4
+#EXTINF:0,BrazzersExxtra.20.06.09.Best.Of.Brazzers.Sharing.Stepsiblings
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64767.mp4
+#EXTINF:0,BrazzersExxtra.20.06.12.Abella.Danger.And.Kira.Noir.Maid.For.A.Threesome
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64768.mp4
+#EXTINF:0,BrazzersExxtra.20.06.14.Nicolette.Shea.School.Of.Hard.Knockers
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64769.mp4
+#EXTINF:0,BrazzersExxtra.20.06.17.Riley.Reid.And.Melissa.Moore.Almost.Sisters.REMASTERED
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64770.mp4
+#EXTINF:0,BrazzersExxtra.20.06.21.Best.Of.Brazzers.Summer.Edition
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64771.mp4
+#EXTINF:0,BrazzersExxtra.20.06.25.Best.Of.Brazzers.Working.Out
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64772.mp4
+#EXTINF:0,BrazzersExxtra.20.06.28.Ivy.Lebelle.Special.Tasks
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64773.mp4
+#EXTINF:0,DayWithAPornstar.20.06.11.Siouxsie.Q.Anal.Kitchen.Cleaning
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64774.mp4
+#EXTINF:0,DayWithAPornstar.20.06.15.Jewelz.Blu.Jewelz.Has.Cock.For.Breakfast
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64775.mp4
+#EXTINF:0,DayWithAPornstar.20.06.19.Kagney.Linn.Karter.Kagney.Cums.With.You
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64776.mp4
+#EXTINF:0,DayWithAPornstar.20.06.23.Vina.Sky.Vinas.Gaping.Workout
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64777.mp4
+#EXTINF:0,DirtyMasseur.20.06.22.Aila.Donovan.Feeling.Up.Aila
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64778.mp4
+#EXTINF:0,MilfsLikeItBig.20.06.18.Lola.Marie.Dick-In-The-Box
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64779.mp4
+#EXTINF:0,MommyGotBoobs.20.03.14.Holly.Hotwife.Just.Ignore.Him
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64780.mp4
+#EXTINF:0,MomsInControl.20.03.18.Violet.Starr.And.Heather.Vahn.Frisking.For.A.Fucking
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64781.mp4
+#EXTINF:0,PornstarsLikeItBig.20.03.13.Siri.Someone.Called.Siri
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64782.mp4
+#EXTINF:0,PornstarsLikeItBig.20.06.10.Casca.Akashova.All.Dolled.Up.Beauty.Queen.Edition
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64783.mp4
+#EXTINF:0,RealWifeStories.20.03.13.Nicolette.Shea.An.Intense.Affair
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64784.mp4
+#EXTINF:0,RealWifeStories.20.06.26.Azul.Hermosa.ZZ.Nuit.Rouge
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64785.mp4
+#EXTINF:0,TeensLikeItBig.20.03.12.Lala.Ivey.Break.And.Enter.Me
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64786.mp4
+#EXTINF:0,TeensLikeItBig.20.03.15.Aubree.Valentine.Stretch-Her.Service
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64787.mp4
+#EXTINF:0,TeensLikeItBig.20.03.16.Chanel.Grey.A.Night.With.Moms.Boyfriend
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64788.mp4
+#EXTINF:0,TeensLikeItBig.20.03.19.Alina.Belle.Learning.To.Ride
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64789.mp4
+#EXTINF:0,TeensLikeItBig.20.06.13.Kennedy.Leigh.21.Hump.Street.REMASTERED
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/64790.mp4
+#EXTINF:0,MIDE-770
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65284.mp4
+#EXTINF:0,anzd-015
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65285.mp4
+#EXTINF:0,apgh-005
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65286.mp4
+#EXTINF:0,apns-186
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65287.mp4
+#EXTINF:0,apns-187
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65288.mp4
+#EXTINF:0,genm-040
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65289.mp4
+#EXTINF:0,homa-087
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65290.mp4
+#EXTINF:0,kimu-006
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65291.mp4
+#EXTINF:0,xvsr-541
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65292.mp4
+#EXTINF:0,xvsr-542
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65293.mp4
+#EXTINF:0,BabyGotBoobs.20.04.03.Jade.Kush.Shadowplay.2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65343.mp4
+#EXTINF:0,BabyGotBoobs.20.04.15.Sommer.Isabella.Top.Heavy
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65344.mp4
+#EXTINF:0,BigButtsLikeItBig.20.03.21.Phoenix.Marie.Yoga.Freaks.Episode.Thirteen
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65345.mp4
+#EXTINF:0,BigButtsLikeItBig.20.04.01.La.Sirena.Party.Like.A.Fingers.Up.Your.Ass
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65346.mp4
+#EXTINF:0,BigButtsLikeItBig.20.04.11.Ashley.Fires.Sock.My.Cock
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65347.mp4
+#EXTINF:0,BigButtsLikeItBig.20.04.20.Cali.Carter.Going.Down.In.A.Blaze.Of.Gloryholes
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65348.mp4
+#EXTINF:0,BigButtsLikeItBig.20.05.14.Abella.Danger.Stalkfucking
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65349.mp4
+#EXTINF:0,BigTitsAtWork.20.04.16.Victoria.Summers.The.Very.Last.Fuck.Ever
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65350.mp4
+#EXTINF:0,BigTitsAtWork.20.04.19.Kiara.Edwards.How.About.Cock
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65351.mp4
+#EXTINF:0,BigWetButts.20.03.29.Gia.Derza.Oily.Af.Anal
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65352.mp4
+#EXTINF:0,BigWetButts.20.05.01.Abella.Danger.So.Fresh.And.So.Clean
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65353.mp4
+#EXTINF:0,BrazzersExxtra.20.03.23.Gina.Valentina.Squirtboarding
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65354.mp4
+#EXTINF:0,BrazzersExxtra.20.03.25.Payton.Preslee.Pounding.Paytons.Pussy
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65355.mp4
+#EXTINF:0,BrazzersExxtra.20.03.26.Alice.Judge.I.Hate.You.Lets.Fuck
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65356.mp4
+#EXTINF:0,BrazzersExxtra.20.03.27.Gabbie.Carter.Easy.Ride-Her
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65357.mp4
+#EXTINF:0,BrazzersExxtra.20.03.27.Khloe.Kapri.Special.Assistant.To.Ms.Kapri
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65358.mp4
+#EXTINF:0,BrazzersExxtra.20.03.28.Tiffany.Tatum.Saturday.Night.Beaver
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65359.mp4
+#EXTINF:0,BrazzersExxtra.20.04.01.Nicolette.Shea.Day.With.A.Porn.Writer
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65360.mp4
+#EXTINF:0,BrazzersExxtra.20.04.02.Romi.Rain.She.Slithers
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65361.mp4
+#EXTINF:0,BrazzersExxtra.20.04.03.Lana.Sharapova.Pocket.Pussy.Anal
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65362.mp4
+#EXTINF:0,BrazzersExxtra.20.04.04.Sophie.Anderson.Eye.Of.The.Cuckold
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65363.mp4
+#EXTINF:0,BrazzersExxtra.20.04.06.Brooklyn.Gray.The.Guru.Of.Gape
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65364.mp4
+#EXTINF:0,BrazzersExxtra.20.04.07.Carly.Rae.Getting.Fucked.On.My.Side
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65365.mp4
+#EXTINF:0,BrazzersExxtra.20.04.12.Eliza.Ibarra.Hopping.On.A.Cock
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65366.mp4
+#EXTINF:0,BrazzersExxtra.20.04.17.Nicolette.Shea.Dont.Back.Out.On.Me.Now
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65367.mp4
+#EXTINF:0,BrazzersExxtra.20.04.18.Abby.Lee.Brazil.Dicklivery
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65368.mp4
+#EXTINF:0,BrazzersExxtra.20.04.20.Anastasia.Brokelyn.Room.Service
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65369.mp4
+#EXTINF:0,BrazzersExxtra.20.04.22.Desiree.Dulce.Clitical.Check.Up
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65370.mp4
+#EXTINF:0,BrazzersExxtra.20.04.25
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65371.mp4
+#EXTINF:0,BrazzersExxtra.20.04.27.Vina.Sky.The.Gape.That.Keeps.On.Giving
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65372.mp4
+#EXTINF:0,BrazzersExxtra.20.04.29.Siri.And.Angela.White.Sneaky.Shower.Threesome
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65373.mp4
+#EXTINF:0,BrazzersExxtra.20.05.06.Best.Of.Brazzers.Nurse.Appreciation.Day
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65374.mp4
+#EXTINF:0,BrazzersExxtra.20.05.07.Anny.Aurora.A.Very.Anal.Maid
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65375.mp4
+#EXTINF:0,BrazzersExxtra.20.05.13.Best.Of.Brazzers.Madison.Ivy
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65376.mp4
+#EXTINF:0,BrazzersExxtra.20.05.15.Best.Of.Brazzers.Squirt.Fest
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65377.mp4
+#EXTINF:0,BrazzersExxtra.20.05.16.Valentina.Nappi.Jumping.For.Jizz
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65378.mp4
+#EXTINF:0,DayWithAPornstar.20.03.29.Victoria.June.
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65379.mp4
+#EXTINF:0,DayWithAPornstar.20.04.07.Joanna.Angel.Hands.On.Joanna
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65380.mp4
+#EXTINF:0,DayWithAPornstar.20.04.09.Cherie.Deville.Home.Alone.With.Cherie
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65381.mp4
+#EXTINF:0,DayWithAPornstar.20.04.11.Phoenix.Marie.Feeling.Up.Phoenix
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65382.mp4
+#EXTINF:0,DayWithAPornstar.20.04.12.Aidra.Fox.Aidra.Gets.Her.Fill
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65383.mp4
+#EXTINF:0,DayWithAPornstar.20.04.19.Hime.Marie.Himes.Cleaning.House
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65384.mp4
+#EXTINF:0,DayWithAPornstar.20.04.23.Luna.Star.Luna.Rides.The.Pole
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65385.mp4
+#EXTINF:0,DayWithAPornstar.20.04.25.Aubree.Valentine.Aubrees.On.The.List
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65386.mp4
+#EXTINF:0,DayWithAPornstar.20.04.26.Aidra.Fox.Aidras.Cure.For.Boredom
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65387.mp4
+#EXTINF:0,DayWithAPornstar.20.04.30.Eva.Elfie.Playing.With.Eva
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65388.mp4
+#EXTINF:0,DayWithAPornstar.20.05.05.Josephine.Jackson.Cooking.With.Josephine
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65389.mp4
+#EXTINF:0,DayWithAPornstar.20.05.07.Katrina.Jade.Katrina.Gets.A.Pervy.Massage
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65390.mp4
+#EXTINF:0,DayWithAPornstar.20.05.14.Luna.Star.Lunas.Oiled-Up.Exercises
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65391.mp4
+#EXTINF:0,DayWithAPornstar.20.05.16.Showering.With.Mara.Swan
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65392.mp4
+#EXTINF:0,DayWithAPornstar.20.05.17.Jessica.Starling.Jessica.Makes.Music
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65393.mp4
+#EXTINF:0,DirtyMasseur.20.05.05.Karma.RX.How.To.Fuck.Your.Masseur
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65394.mp4
+#EXTINF:0,DoctorAdventures.20.04.04.Kira.Noir.Jailhouse.Fuck.4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65395.mp4
+#EXTINF:0,DoctorAdventures.20.04.27.Bella.Rose.Big.Thermometer.Energy
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65396.mp4
+#EXTINF:0,DoctorAdventures.20.05.08.Abella.Danger.Use.It.Or.Lose.It
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65397.mp4
+#EXTINF:0,HotAndMean.20.03.30.Alexis.Fawx.And.Mackenzie.Moss.All.In.A.Days.Squirt
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65398.mp4
+#EXTINF:0,HotAndMean.20.04.08.Lena.Paul.And.Skye.Blue.Stay.Away.From.My.Brother
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65399.mp4
+#EXTINF:0,HotAndMean.20.04.10.Karma.RX.And.Abella.Danger.Neon.Dreaming
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65400.mp4
+#EXTINF:0,HotAndMean.20.04.26.Alessandra.Jane.And.Anastasia.Doll.A.Hot.And.Mean.Proposition
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65401.mp4
+#EXTINF:0,HotAndMean.20.04.30.Molly.Stewart.And.La.Sirena.Squirting.Out.The.Truth
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65402.mp4
+#EXTINF:0,HotAndMean.20.05.06.Kendra.James.And.Casca.Akashova.Caught.Red.Handed
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65403.mp4
+#EXTINF:0,HotAndMean.20.05.17.Madison.Ivy.And.Molly.Stewart.Smoking.Hot.Affair
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65404.mp4
+#EXTINF:0,MilfsLikeItBig.20.03.26.Brandi.Love.Red-Hot.Calendar.Shoot
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65405.mp4
+#EXTINF:0,MilfsLikeItBig.20.03.28.Anissa.Kate.Not.Here.For.The.Coffee
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65406.mp4
+#EXTINF:0,MilfsLikeItBig.20.04.24.Cory.Chase.Sorority.MILF
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65407.mp4
+#EXTINF:0,MommyGotBoobs.20.03.22.Bridgette.B.Two.For.One.Special
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65408.mp4
+#EXTINF:0,MommyGotBoobs.20.04.15.Cherie.Deville.Stuck.On.Your.Mom
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65409.mp4
+#EXTINF:0,MomsInControl.20.04.23.Alexis.Fawx.And.Aubree.Valentine.Sneak.Peek.And.Fuck
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65410.mp4
+#EXTINF:0,MomsInControl.20.05.18.Vanna.Bardot.And.Becky.Bandini.To.The.Stepmom.Goes.The.Threesome
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65411.mp4
+#EXTINF:0,PornstarsLikeItBig.20.03.20.Abella.Danger.Dancing.Domme
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65412.mp4
+#EXTINF:0,PornstarsLikeItBig.20.03.22.Madison.Ivy.And.Liv.Wild.A.Wild.Night
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65413.mp4
+#EXTINF:0,PornstarsLikeItBig.20.03.25.Kendra.Sunderland.Dripping.Wet
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65414.mp4
+#EXTINF:0,PornstarsLikeItBig.20.03.30.Abella.Danger.ASSMR
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65415.mp4
+#EXTINF:0,PornstarsLikeItBig.20.04.24.Abella.Danger.Anatomy.Of.A.Sex.Scene.3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65416.mp4
+#EXTINF:0,RealWifeStories.20.04.10.Ember.Snow.The.Silent.Treatment
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65417.mp4
+#EXTINF:0,RealWifeStories.20.04.17.Alina.Lopez.Liar.Liar
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65418.mp4
+#EXTINF:0,TeensLikeItBig.20.03.23.Lana.Harding.Time.And.Again
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65419.mp4
+#EXTINF:0,TeensLikeItBig.20.04.08.Leda.Bear.Pussycraft
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65420.mp4
+#EXTINF:0,dwp.20.05.18.kenzie.taylor.kenzie.gets.stuck
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/movie/kgtest0711/zxcz2345/65421.mp4
+#EXTINF:0,VIP178:A Casa das Brasileirinhas 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60711
+#EXTINF:0,VIP179:A Casa das Brasileirinhas 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60712
+#EXTINF:0,VIP180:Anal
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60713
+#EXTINF:0,VIP181:ATRIZES 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60714
+#EXTINF:0,VIP182:ATRIZES FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60715
+#EXTINF:0,VIP183:BI MASCULINO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60716
+#EXTINF:0,VIP184:BRASILEIRINHAS 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60717
+#EXTINF:0,VIP185:BRASILEIRINHAS 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60718
+#EXTINF:0,VIP186:ESCOLA DAS BRASILEIRINHAS
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60719
+#EXTINF:0,VIP187:FAP TV 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60720
+#EXTINF:0,VIP188:FAP TV COMPILATION
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60721
+#EXTINF:0,VIP189:FUDELIDADE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60722
+#EXTINF:0,VIP190:HENTAI 01 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60723
+#EXTINF:0,VIP191:HENTAI 02 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60724
+#EXTINF:0,VIP192:HENTAI 03 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60725
+#EXTINF:0,VIP193:Lesbicas
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60726
+#EXTINF:0,VIP194:LESBICAS 01
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60727
+#EXTINF:0,VIP195:LESBICAS 02
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60728
+#EXTINF:0,VIP196:MOFOS 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60729
+#EXTINF:0,VIP197:MOFOS 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60730
+#EXTINF:0,VIP198:MOFOS 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60731
+#EXTINF:0,VIP199:PARODY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60732
+#EXTINF:0,VIP200:PORN FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60733
+#EXTINF:0,VIP201:PORN HUB FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60734
+#EXTINF:0,VIP202:RUSNOCH
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60735
+#EXTINF:0,VIP204:Thammy
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60737
+#EXTINF:0,VIP205:TRANS 01
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60738
+#EXTINF:0,VIP206:Trans 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60739
+#EXTINF:0,VIP207:Trans 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60740
+#EXTINF:0,VIP203:SHALUN TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60736
+#EXTINF:0,VIP208:Trans 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60741
+#EXTINF:0,VIP209:Trans 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60742
+#EXTINF:0,VIP210:X1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60743
+#EXTINF:0,VIP211:Extreme
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60744
+#EXTINF:0,VIP212:Lesbian Affair HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60745
+#EXTINF:0,VIP213:SEX ATION HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60746
+#EXTINF:0,VIP214:SCT
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60747
+#EXTINF:0,VIP215:#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60748
+#EXTINF:0,VIP216:Blue Hustler Europe
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60749
+#EXTINF:0,VIP217:Russian Night Europe
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60750
+#EXTINF:0,VIP218:Pinko Club 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60751
+#EXTINF:0,VIP219:Free X TV HQ
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60752
+#EXTINF:0,VIP220:Candyman
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60753
+#EXTINF:0,VIP221:Fashion TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/60754
+#EXTINF:0,------|Greece|------
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31237
+#EXTINF:0,GR001:Ote_Sport_Highlights
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31236
+#EXTINF:0,GR002:Vouli TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31235
+#EXTINF:0,GR003:VOULI
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31234
+#EXTINF:0,GR004:Alert
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31233
+#EXTINF:0,GR005:Village_Cinema
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31232
+#EXTINF:0,GR006:ERT Sport FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31231
+#EXTINF:0,GR007:OTE Sports 8
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31230
+#EXTINF:0,GR008:Greek Cinema 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31229
+#EXTINF:0,GR009:Greek Cinema 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31228
+#EXTINF:0,GR010:EEK CINEMA 80s 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31227
+#EXTINF:0,GR011:Village_Cinema
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31226
+#EXTINF:0,GR012:ANT1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31225
+#EXTINF:0,GR013:Action 24  (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31224
+#EXTINF:0,GR014:Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31223
+#EXTINF:0,GR015:Alert
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31222
+#EXTINF:0,GR016:Alpha
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31221
+#EXTINF:0,GR017:Alpha (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31220
+#EXTINF:0,GR018:ANT 1 (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31219
+#EXTINF:0,GR019:Attica
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31218
+#EXTINF:0,GR020:Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31217
+#EXTINF:0,GR021:BBC_Earth
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31216
+#EXTINF:0,GR022:Blue Sky
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31215
+#EXTINF:0,GR023:BEST Movies 1 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31214
+#EXTINF:0,GR024:Ch9
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31213
+#EXTINF:0,GR025:History
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31212
+#EXTINF:0,GR026:Crime_Investigation
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31211
+#EXTINF:0,GR027:EuroSport 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31210
+#EXTINF:0,GR028:Disney_Junior
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31209
+#EXTINF:0,GR029:Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31208
+#EXTINF:0,GR030:E
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31207
+#EXTINF:0,GR031:Action 24
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31206
+#EXTINF:0,GR032:ERT 1 (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31205
+#EXTINF:0,GR033:ERT 2 (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31204
+#EXTINF:0,GR034:ERT 3 (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31203
+#EXTINF:0,GR035:ERT_1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31202
+#EXTINF:0,GR036:Skai
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31201
+#EXTINF:0,GR037:ERT_3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31200
+#EXTINF:0,GR038:Extra
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31199
+#EXTINF:0,GR039:MEGA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31198
+#EXTINF:0,GR040:AB Channel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31197
+#EXTINF:0,GR041:Fox
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31196
+#EXTINF:0,GR042:Kontra
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31195
+#EXTINF:0,GR043:Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31194
+#EXTINF:0,GR044:CHANNEL 9
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31193
+#EXTINF:0,GR045:Mad
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31192
+#EXTINF:0,GR046:Makedonia (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31191
+#EXTINF:0,GR047:TV 1000
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31190
+#EXTINF:0,GR048:Nat_Geo_Wild
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31189
+#EXTINF:0,GR049:Alpha
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31188
+#EXTINF:0,GR050:Nautical_Channel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31187
+#EXTINF:0,GR051:Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31186
+#EXTINF:0,GR052:Nickelodeon (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31185
+#EXTINF:0,GR053:TRT
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31184
+#EXTINF:0,GR054:Open_Beyond
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31183
+#EXTINF:0,GR055:Rise
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31182
+#EXTINF:0,GR056:Skai (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31181
+#EXTINF:0,GR057:Smile (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31180
+#EXTINF:0,GR058:Start TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31179
+#EXTINF:0,GR059:Star
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31178
+#EXTINF:0,GR060:Star (Backup)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31177
+#EXTINF:0,GR061:TCM
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31176
+#EXTINF:0,GR062:Sigma
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31175
+#EXTINF:0,GR063:Rik
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31174
+#EXTINF:0,GR064:Viasat_History
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31173
+#EXTINF:0,GR065:OMEGA
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31172
+#EXTINF:0,GR066:Vouli
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31171
+#EXTINF:0,GR067:Nea Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31170
+#EXTINF:0,GR068:Star HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31169
+#EXTINF:0,GR069:SMILE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31168
+#EXTINF:0,GR070:EURONEWS
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31167
+#EXTINF:0,GR071:Makeleio Web Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31166
+#EXTINF:0,GR072:RELOAD RADIO TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31165
+#EXTINF:0,GR073:HIGH TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31164
+#EXTINF:0,GR074:Hpeiros TV1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31163
+#EXTINF:0,GR075:DIKTYO
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31162
+#EXTINF:0,GR076:Axeloos TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31161
+#EXTINF:0,GR077:Nova sport 1 SD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31160
+#EXTINF:0,GR078:Astra
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31159
+#EXTINF:0,GR079:Mad FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31158
+#EXTINF:0,GR080:Rik Sat CY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31157
+#EXTINF:0,GR081:Montreal Greek TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31156
+#EXTINF:0,GR082:NAT GEO Wild HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31155
+#EXTINF:0,GR083:Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31154
+#EXTINF:0,GR084:Nova Premiere 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31153
+#EXTINF:0,GR085:Nova Throne Season 1 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31152
+#EXTINF:0,GR086:Nova Throne Season 2 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31151
+#EXTINF:0,GR087:Nova Throne Season 3 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31150
+#EXTINF:0,GR088:Nova Throne Season 4 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31149
+#EXTINF:0,GR089:Nova Throne Season 5 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31148
+#EXTINF:0,GR090:Nova Throne Season 6 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31147
+#EXTINF:0,GR091:Nova Throne Season 7 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31146
+#EXTINF:0,GR092:Nova Throne Season 8 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31145
+#EXTINF:0,GR093:Nova Sport 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/31144
+#EXTINF:0,GR094:ERT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52128
+#EXTINF:0,GR095:ERT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52127
+#EXTINF:0,GR096:4E Star
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52126
+#EXTINF:0,GR097:NOVA CINEMA 4 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52125
+#EXTINF:0,GR098:ERT PLAY HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52124
+#EXTINF:0,GR099:ERT SPORTS WORLDWIDE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52123
+#EXTINF:0,GR100:ERT SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52122
+#EXTINF:0,GR101:RIK Sat
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52121
+#EXTINF:0,GR102:Wixlar TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52120
+#EXTINF:0,GR103:TV Kosmos
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52119
+#EXTINF:0,GR104:GROOVY CY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52118
+#EXTINF:0,GR105:PAOK TV 
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52117
+#EXTINF:0,GR106:EPSILON TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52116
+#EXTINF:0,GR107:FOX TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52115
+#EXTINF:0,GR108:Explore Channel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52114
+#EXTINF:0,GR109:ERT PLAY 3 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52113
+#EXTINF:0,GR110:Mega
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52112
+#EXTINF:0,GR111:PONTIAKA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52111
+#EXTINF:0,GR112:BRT 1 (cyprus)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52110
+#EXTINF:0,GR113:BRT 2 (cyprus)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52109
+#EXTINF:0,GR114:Star Kentrikis Ellada
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52108
+#EXTINF:0,GR115:Filopoli TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52107
+#EXTINF:0,GR116:ERT World
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52106
+#EXTINF:0,GR117:BEST TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52105
+#EXTINF:0,GR118:Hellas TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52104
+#EXTINF:0,GR119:Mad TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52103
+#EXTINF:0,GR120:Aigaio TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52102
+#EXTINF:0,GR121:ENA CHANNEL KAVALAS
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52101
+#EXTINF:0,GR122:TRT Greek
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52100
+#EXTINF:0,GR123:TV100
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52099
+#EXTINF:0,GR124:PLP
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52098
+#EXTINF:0,GR125:Euronews Greek
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52097
+#EXTINF:0,GR126:CineFil
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52096
+#EXTINF:0,GR127:CANNALI
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52095
+#EXTINF:0,GR128:Nova Premiere 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52094
+#EXTINF:0,GR129:Nova Premiere 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52093
+#EXTINF:0,GR130:Nova Premiere 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52092
+#EXTINF:0,GR131:Nova Premiere 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52091
+#EXTINF:0,GR132:Kids1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52090
+#EXTINF:0,GR133:Tile Mousiki 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52089
+#EXTINF:0,GR134:EOE Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52088
+#EXTINF:0,GR135:Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52087
+#EXTINF:0,GR136:CRETA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52086
+#EXTINF:0,GR137:KPHTI TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52085
+#EXTINF:0,GR138:TV1 Siros
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52084
+#EXTINF:0,GR139:NOVA CINEMA 3 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52083
+#EXTINF:0,GR140:XALASTRA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52082
+#EXTINF:0,GR141:NEO TV (EPSILON)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52081
+#EXTINF:0,GR142:Play Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52080
+#EXTINF:0,GR143:IONIAN TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52079
+#EXTINF:0,GR144:NOVA CINEMA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52078
+#EXTINF:0,GR145:FarosOnAir
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52077
+#EXTINF:0,GR146:ZOUGLA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52076
+#EXTINF:0,GR147:Melody Channel HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52075
+#EXTINF:0,GR148:Delta TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52074
+#EXTINF:0,GR149:NRG TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52073
+#EXTINF:0,GR150:GREEK VOICE
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52072
+#EXTINF:0,GR151:Tile Musiki
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52071
+#EXTINF:0,GR152:Thraki Net Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52070
+#EXTINF:0,GR153:TileSport
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52069
+#EXTINF:0,GR154:Plus TV CY
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52068
+#EXTINF:0,GR155:LYCHNOS
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52067
+#EXTINF:0,GR156:Agio Nicolaos
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52066
+#EXTINF:0,GR157:Open Beyond HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52065
+#EXTINF:0,GR158:Attica Tv
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52064
+#EXTINF:0,GR159:Axelwos TV °
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52063
+#EXTINF:0,GR160:Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52062
+#EXTINF:0,GR161:Discovery ShowCase
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52061
+#EXTINF:0,GR162:4E TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52060
+#EXTINF:0,GR163:EXTRA
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52059
+#EXTINF:0,GR164:KPHTH TV (Krhth) °
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52058
+#EXTINF:0,GR165:NOVA CINEMA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52057
+#EXTINF:0,GR166:M.tv (Makedonia TV)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52056
+#EXTINF:0,GR167:MESSINIA TV
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52055
+#EXTINF:0,GR168:NETV TORONTO °
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52054
+#EXTINF:0,GR169:Nova Sport 3 ( live only at match)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52053
+#EXTINF:0,GR170:Nova Sport 4 ( live only at match)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52052
+#EXTINF:0,GR171:Nova Sport 5 (Live only on match)
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52051
+#EXTINF:0,GR172:OTE SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52637
+#EXTINF:0,GR173:OTE SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52636
+#EXTINF:0,GR174:OTE SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52635
+#EXTINF:0,GR175:OTE SPORT 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52634
+#EXTINF:0,GR176:OTE SPORT 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52633
+#EXTINF:0,GR177:OTE SPORT 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52632
+#EXTINF:0,GR178:OTE SPORT 7
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52631
+#EXTINF:0,GR179:OTE CINEMA 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52630
+#EXTINF:0,GR180:OTE CINEMA 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52629
+#EXTINF:0,GR181:OTE CINEMA 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/52628
+#EXTINF:0,GR182:OTE Cinema 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57949
+#EXTINF:0,GR185:Netflix Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57946
+#EXTINF:0,GR186:Netflix Premiere 2
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57945
+#EXTINF:0,GR187:Netflix Premiere 3
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57944
+#EXTINF:0,GR189:Netflix Premiere 4
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57942
+#EXTINF:0,GR190:NetFlix Premiere 5
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57941
+#EXTINF:0,GR191:NetFlix Premiere 6
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57940
+#EXTINF:0,GR192:NetFlix Premiere 7
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57939
+#EXTINF:0,GR193:NetFlix Premiere 9
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57938
+#EXTINF:0,GR194:NetFlix Premiere 8
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/57937
+#EXTINF:0,GR195:NetFlix Premiere 10
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/53481
+#EXTINF:0,GR196:NetFlix Premiere 11
+#EXTVLCOPT:network-caching=1000
+http://c2.abcnew.site:8880/kgtest0711/zxcz2345/53482
